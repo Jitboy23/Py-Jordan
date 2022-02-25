@@ -2,7 +2,7 @@
 
 print ("Welcome to the JITBOY Python Tutorial!")
 
-user_choice = input("Do you want to proceed with the program?[Y/Nn]")
+user_choice = input("Do you want to proceed with the program?[Y/n]")
 
 if user_choice == "Y":
 	user_name = input("Enter your user name: ")
